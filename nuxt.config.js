@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-fileupload',
+    title: 'Nuxt CSV Converter',
     htmlAttrs: {
       lang: 'en'
     },
